@@ -81,3 +81,25 @@ main {
 		padding: 0 40px;
 	}
 }
+
+.profile-container {
+	display: flex;
+	justify-content: space-evenly;
+	height: 250px;
+	padding: 20px;
+}
+.img-container {
+	margin-left: 25px;
+	margin-right: 15px;
+}
+
+.profile-img {
+	border-radius: 50%;
+	height: 250px;
+}
+
+.profile-text-conteiner {
+	align-self: center;
+	width: 70%;
+	margin-left: 25px;
+}
